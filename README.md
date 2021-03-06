@@ -4,4 +4,4 @@
 
 # My Description
     Hello, my name is João Jervis, I'm a youtuber, and I'm ten years old. 
-    I'm a student, in 5º year, i'm in a class with others tenty-nine students.
+    I'm a student, in 5º year, i'm in a class with other ninety students.
