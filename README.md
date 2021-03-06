@@ -1,4 +1,4 @@
-# My first repositorywrote
+# My first repository
 
 ![](salto_radical_foto.png)
 
