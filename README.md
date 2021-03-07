@@ -7,8 +7,8 @@
     
     I'm a student, in the 5th grade and I'm in a class with other nineteen students.
 
-# This is me
+# This is my information
 
-| Name        | Years       | Birthday      |
-| :---        |    :----:   |          ---: |
-| João Jervis | 10          | 8th, May      |
+| Name        | Years       | Birthday      | Grade  | Students in my class |
+| :---        |    :----:   |     :----:    | :----: |                  ---:|
+| João Jervis | 10          | 8th, May      | 5th    | 20                   |
