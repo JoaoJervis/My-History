@@ -11,4 +11,4 @@
 
 | Name        | Years       | Birthday      | Grade  | Students in my class |
 | :----:      |    :----:   |     :----:    | :----: |         :----:       |
-| João Jervis | 10          | 8th, May      | 5th    | 20                   |
+| João Jervis | 10          | 8th, May      | 5th    | 19                   |
