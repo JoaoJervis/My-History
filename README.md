@@ -10,5 +10,5 @@
 # This is my information
 
 | Name        | Years       | Birthday      | Grade  | Students in my class |
-| :---        |    :----:   |     :----:    | :----: |                  ---:|
+| :----:      |    :----:   |     :----:    | :----: |         :----:       |
 | João Jervis | 10          | 8th, May      | 5th    | 20                   |
