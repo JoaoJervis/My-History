@@ -9,6 +9,6 @@
 
 # This is me
 
-    |Name        |Years |Birthday      |
-    |:----:      |:----:|:----:        |
-    |João Jervis |10    |8th, May 2010 |
+| Name        | Years       | Birthday      |
+| :---        |    :----:   |          ---: |
+| João Jervis | 10          | 8th, May      |
