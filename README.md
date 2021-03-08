@@ -15,4 +15,4 @@
 
 # This is me
 
-![](This_is_me.jpg)
+![](This_is_me.png)
