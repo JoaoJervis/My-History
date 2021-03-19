@@ -13,6 +13,6 @@
 | :----:      |    :----:   |     :----:    | :----: |        :----:        |
 | João Jervis | 10          | 8th, May      | 5th    | 19                   |
 
-# This is me
+# And, this is me
 
 ![This_is_me](https://user-images.githubusercontent.com/80167045/110324162-8806a880-800d-11eb-9af3-ea89840ebaaa.jpg)
